@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+}
+
+header {
+    width: 100vw;
+    height: 50vh;
+    background-image: url("../header.jpg");
+    background-size: 100%;
+    color: #FFFFFF;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: "Bangers";
+}
+
+header h1 {
+    font-size: 5em;
+}
+
+header h2 {
+    font-size: 2em;
+}
