@@ -1,0 +1,77 @@
+{
+    "Current Focus": {
+
+    },
+
+    "Health": {
+        "Swim a length of a pool": false,
+        "Do yoga everyday for 30 days": false
+    },
+
+    "Financial": {
+        "Gain a second stream of income": false,
+        "Buy a car": false,
+        "Rent first house": false
+    },
+
+    "Professional": {
+        "Be a mentor for someone in computing": false,
+        "Become a buddy for a new employee at work": false,
+        "Get a first class honours degree in computing": false,
+        "Lead a team in a project at work": false,
+        "Master a programming language": false
+    },
+
+    "Charity": {
+        "Raise £100 for a charity": false
+    },
+
+    "Skills and Projects": {
+        "Learn to speak German fluently": false,
+        "Write a fiction book": false,
+        "Write a non-fiction book": false,
+        "Complete CS50": false,
+        "Complete CS50 AI": false,
+        "Complete a cyber security course": false,
+        "Complete a course on personal development or coaching": false,
+        "Create a reliable Harvard Reference Generator": false,
+        "Create a mobile app": false,
+        "Make a mobile app that is on Google Play/App Store": false,
+        "Make a Chrome Extension": false,
+        "Make a NuGet package": false,
+        "Make an NPM package": false,
+        "Make an AI that recognises Makaton": false,
+        "Become a qualified first aider": false,
+        "Pass driving theory test": false,
+        "Pass driving practical test": false,
+        "Start a blog": false
+    },
+
+    "Entertainment": {
+        "Watch every Doctor Who episode ever!": false,
+        "See Hamilton live": false,
+        "See Dear Evan Hansen live": false,
+        "See My Chemical Romance live": false,
+        "See Panic! At The Disco live": false,
+        "See Fall Out Boy live": false,
+        "See Peter Kay live": false,
+        "Complete all puzzles in The Legend of Zelda Picross game": false
+    },
+
+    "Travel": {
+        "Go to Iceland": false,
+        "Go to Ireland": false,
+        "Revisit the railway I went to when I was younger": false
+    },
+
+    "Experiences": {
+        "Drive a steam train": false,
+        "Drive a DMU": false,
+        "Guard a train": false,
+        "Do a talk in person at college": false,
+        "Do a talk to an audience of more than 300 people": false,
+        "Go to Comic-Con": false,
+        "Present at a technology conference": false,
+        "Take part in a Hackathon": false
+    }
+}
