@@ -1,0 +1,20 @@
+@media screen and (max-width: 800px) {
+    body {
+        font-size: 20px;
+    }
+
+    header {
+        height: 15vh;
+    }
+    header h1 {
+        font-size: 2.5em;
+    }
+
+    header h2 {
+        font-size: 1.5em;
+    }
+
+    main {
+        width: 95vw;
+    }
+}

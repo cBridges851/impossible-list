@@ -1,6 +1,9 @@
 {
     "Current Focus": {
-
+        "Complete CS50": false,
+        "Create a reliable Harvard Reference Generator": false,
+        "Learn to speak German fluently": false,
+        "Get a first class honours degree in computing": false
     },
 
     "Health": {
@@ -69,7 +72,7 @@
         "Drive a DMU": false,
         "Guard a train": false,
         "Do a talk in person at college": false,
-        "Do a talk to an audience of more than 300 people": false,
+        "Do a talk to an audience of at least 300 people": false,
         "Go to Comic-Con": false,
         "Present at a technology conference": false,
         "Take part in a Hackathon": false

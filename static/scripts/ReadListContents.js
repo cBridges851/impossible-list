@@ -5,13 +5,20 @@ fetch('./static/scripts/list-contents.json')
 
         for (let category of allCategories) {
             const mainElement = document.querySelector("main");
-            const heading = document.createElement("h2");
+            const heading = document.createElement("h3");
             heading.innerText = category;
             mainElement.appendChild(heading);
             const unorderedList = document.createElement("ul");
             const currentObject = Object.keys(jsonResponse[category]);
 
-            for (let goal of currentObject) { 
+            if (category === "Current Focus") {
+                const paragraph = document.createElement("p");
+                paragraph.innerText = "These are the goals that my focus is aligned to. With that in mind,\
+                I would still be open to new opportunities (but not relating to a new job, no way am I leaving!).";
+                mainElement.appendChild(paragraph);
+            } 
+
+            for (let goal of currentObject) {
                 const listElement = document.createElement("li");
                 listElement.innerText = goal;
 

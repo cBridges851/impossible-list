@@ -7,7 +7,7 @@ body {
 header {
     width: 100vw;
     height: 50vh;
-    background-image: url("../header.jpg");
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../header.png");
     background-size: 100%;
     color: #FFFFFF;
     text-align: center;
@@ -27,6 +27,10 @@ header h2 {
     font-size: 2em;
     padding: 0;
     margin: 0;
+}
+
+p {
+    word-wrap: break-word;
 }
 
 main {
