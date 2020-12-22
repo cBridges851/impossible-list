@@ -2,10 +2,11 @@ body {
     margin: 0;
     font-family: "Amatic SC";
     font-size: 35px;
+    background-color: #EEEEEE;
 }
 
 header {
-    width: 100vw;
+    width: 100%;
     height: 50vh;
     background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
     url("../header.png");
@@ -41,12 +42,16 @@ main {
 }
 
 footer {
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("../header.png");
     padding: 10px;
+    background-size: 100%;
+    color: #FFFFFF;
     display: flex;
     justify-content: space-between;
+    align-items: center;
 }
 
-/* Style all font awesome icons */
 .fa {
     padding: 20px;
     font-size: 30px;
@@ -56,10 +61,20 @@ footer {
 }
 
 .fa:hover {
-    opacity: 0.7;
+    opacity: 0.9;
 }
 
 .fa-twitter {
     background: #55acee;
-    color: white;
+    color: #FFFFFF;
+}
+
+.fa-linkedin {
+    background: #0E76A8;
+    color: #FFFFFF;
+}
+
+.fa-github {
+    background: #6e5494;
+    color: #FFFFFF
 }
