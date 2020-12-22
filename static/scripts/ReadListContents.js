@@ -20,10 +20,14 @@ fetch('./static/scripts/list-contents.json')
 
             for (let goal of currentObject) {
                 const listElement = document.createElement("li");
-                listElement.innerText = goal;
+                const spanElement = document.createElement("span");
+                spanElement.innerText = goal;
 
-                if (jsonResponse[category][goal]) {
-                    listElement.style.textDecoration = "line-through";
+                listElement.appendChild(spanElement);
+
+                if (jsonResponse[category][goal][0]) {
+                    spanElement.style.textDecoration = "line-through";
+                    listElement.innerHTML += ` - ${jsonResponse[category][goal][1]}`
                 }
 
                 unorderedList.appendChild(listElement);
@@ -31,4 +35,4 @@ fetch('./static/scripts/list-contents.json')
 
             mainElement.appendChild(unorderedList);
         }
-    })     
+    });     

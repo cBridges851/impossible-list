@@ -1,15 +1,16 @@
 body {
     margin: 0;
-    font-family: 'Amatic SC';
+    font-family: "Amatic SC";
     font-size: 35px;
 }
 
 header {
     width: 100vw;
     height: 50vh;
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../header.png");
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("../header.png");
     background-size: 100%;
-    color: #FFFFFF;
+    color: #ffffff;
     text-align: center;
     display: flex;
     justify-content: center;
@@ -35,6 +36,30 @@ p {
 
 main {
     width: 60vw;
-    margin:auto;
+    margin: auto;
     padding: 5px;
+}
+
+footer {
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+/* Style all font awesome icons */
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 40px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-twitter {
+    background: #55acee;
+    color: white;
 }
