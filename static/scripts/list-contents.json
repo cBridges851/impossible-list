@@ -20,7 +20,9 @@
         "Become a buddy for a new employee at work": [false],
         "Get a first class honours degree in computing": [false],
         "Lead a team in a project at work": [false],
-        "Master a programming language": [false]
+        "Master a programming language": [false],
+        "Answer a Stack Overflow question": [false],
+        "Have a typing speed of at least 50 WPM (using https://www.typingtest.com/)": [false]
     },
 
     "Charity": {
