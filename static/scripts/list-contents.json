@@ -9,10 +9,10 @@
         "Do yoga everyday for 30 days": [false]
     },
 
-    "Financial": {
-        "Gain a second stream of income": [false],
-        "Buy a car": [false],
-        "Rent first house": [false]
+    "Social": {
+        "Maintain a loving relationship with my partner (1 year and counting)": [false],
+        "Maintain happy friendships with my closest friends, and be there for them!": [false],
+        "Gain 500 valuable LinkedIn connections": [false]
     },
 
     "Professional": {
@@ -22,7 +22,8 @@
         "Lead a team in a project at work": [false],
         "Master a programming language": [false],
         "Answer a Stack Overflow question": [false],
-        "Have a typing speed of at least 50 WPM (using https://www.typingtest.com/)": [false]
+        "Have a typing speed of at least 50 WPM (using https://www.typingtest.com/)": [true, "06/01/2021"],
+        "Have a typing speed of at least 60 WPM (using https://www.typingtest.com/)": [false]
     },
 
     "Charity": {
@@ -76,10 +77,12 @@
         "Drive a steam train": [false],
         "Drive a DMU": [false],
         "Guard a train": [false],
+        "Go on a zip wire": [false],
         "Do a talk in person at college": [false],
         "Do a talk to an audience of at least 300 people": [false],
         "Go to Comic-Con": [false],
+        "Go to an in-person technology conference": [false],
         "Present at a technology conference": [false],
-        "Take part in a Hackathon": [false]
+        "Take part in an In-Person Hackathon": [false]
     }
 }
