@@ -1,6 +1,8 @@
 {
     "Current Focus": {
         "Create a mobile app": [false],
+        "Make a colour palette application that converts between hex and RGB": [false],
+        "How to Start Using Git (debating the name)": [false],
         "Learn to speak German fluently": [false],
         "Get a first class honours degree in computing": [false]
     },
@@ -46,16 +48,28 @@
         "Make an NPM package": [false],
         "Make an AI that recognises Makaton": [false],
         "Make a Discord bot": [false],
+        "Make an interactive VR scene": [false],
+        "Become a qualified first aider": [false],
+        "Pass driving theory test": [false],
+        "Pass driving practical test": [false],
+    },
+    
+    "Coding projects (more specific than above)": {
+        "Make a colour palette application that converts between hex and RGB": [false],
+        "Make a to do list application in React": [false],
+        "Make an alarm clock app": [false],
+        "Make an app designed to help people with addictions": [false],
         "Make a Code Style Checker": [true, "24/01/2021"],
         "Make a Code Style Checker with 10 validators": [false],
         "Make a programming language": [false],
         "Make a program that only does inputs and outputs via speech": [false],
         "Make a program that listens to you speak a language and tries to figure out what you are saying": [false],
-        "Make an interactive VR scene": [false],
-        "Become a qualified first aider": [false],
-        "Pass driving theory test": [false],
-        "Pass driving practical test": [false],
-        "Start a blog": [false]
+        "Make a personal website with a blog": [false]
+    },
+    
+    "Articles": {
+        "How to Start Using Git (debating the name)": [false],
+        "A year in the workplace": [false]
     },
 
     "Entertainment": {
