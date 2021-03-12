@@ -51,7 +51,7 @@
         "Make an interactive VR scene": [false],
         "Become a qualified first aider": [false],
         "Pass driving theory test": [false],
-        "Pass driving practical test": [false],
+        "Pass driving practical test": [false]
     },
     
     "Coding projects (more specific than above)": {
