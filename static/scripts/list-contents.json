@@ -59,6 +59,7 @@
         "Make a to do list application in React": [false],
         "Make an alarm clock app": [false],
         "Make an app designed to help people with addictions": [false],
+        "Tkinter Address Book": [false],
         "Make a Code Style Checker": [true, "24/01/2021"],
         "Make a Code Style Checker with 10 validators": [false],
         "Make a programming language": [false],
