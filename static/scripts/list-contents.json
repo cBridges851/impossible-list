@@ -15,7 +15,8 @@
     "Social": {
         "Maintain a loving relationship with my partner (1 year and counting)": [false],
         "Maintain happy friendships with my closest friends, and be there for them!": [false],
-        "Write a post which is in the top 1% engagement on LinkedIn": [false],
+        "Write a post which is in the top 1% engagement on LinkedIn": [true, "05/04/2021"],
+        "Write 5 posts which are in the top 1% engagement on LinkedIn": [false],
         "Gain 500 valuable LinkedIn connections": [false]
     },
 
