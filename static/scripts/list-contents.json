@@ -2,7 +2,6 @@
     "Current Focus": {
         "Create a mobile app": [false],
         "Make a colour palette application that converts between hex and RGB": [false],
-        "How to Start Using Git (debating the name)": [false],
         "Learn to speak German fluently": [false],
         "Get a first class honours degree in computing": [false]
     },
@@ -24,6 +23,7 @@
         "Be a mentor for someone in computing": [false],
         "Become a buddy for a new employee at work": [false],
         "Get a first class honours degree in computing": [false],
+        "Get 100 marks in a university module (ambitious, I know!)": [false],
         "Lead a team in a project at work": [false],
         "Master a programming language": [false],
         "Answer a Stack Overflow question": [false],
@@ -71,7 +71,7 @@
     },
     
     "Articles": {
-        "How to Start Using Git (debating the name)": [false],
+        "How to Start Using Git (debating the name)": [true, "05/04/2021"],
         "A year in the workplace": [false]
     },
 
