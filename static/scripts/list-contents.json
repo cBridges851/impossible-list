@@ -1,7 +1,7 @@
 {
     "Current Focus": {
-        "Create a mobile app": [false],
-        "Make a colour palette application that converts between hex and RGB": [false],
+        "Make a to do list application in AngularJS": [false],
+        "A year in the workplace": [false],
         "Learn to speak German fluently": [false],
         "Get a first class honours degree in computing": [false]
     },
@@ -58,6 +58,7 @@
     
     "Coding projects (more specific than above)": {
         "Make a colour palette application that converts between hex and RGB": [false],
+        "Make a to do list application in AngularJS": [false],
         "Make a to do list application in React": [false],
         "Make an alarm clock app": [false],
         "Make an app designed to help people with addictions": [false],
@@ -72,7 +73,6 @@
     
     "Articles": {
         "How to Start Using Git (debating the name)": [true, "05/04/2021"],
-        "Mums In Science Article": [false],
         "Impossible list tutorial": [false],
         "A year in the workplace": [false]
     },
@@ -104,6 +104,8 @@
         "Go on a zip wire": [false],
         "Do a talk in person at college": [false],
         "Do a talk to an audience of at least 300 people": [false],
+        "Go to an online YAAN event": [false],
+        "Go to an in-person YAAN event": [false],
         "Do a TED Talk": [false],
         "Go to Comic-Con": [false],
         "Go to an in-person technology conference": [false],
