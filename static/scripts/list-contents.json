@@ -51,7 +51,7 @@
         "Make a Discord bot": [false],
         "Make an interactive VR scene": [false],
         "Become a qualified first aider": [false],
-        "Become a qualified mental health first aider"
+        "Become a qualified mental health first aider": [false],
         "Pass driving theory test": [false],
         "Pass driving practical test": [false]
     },
