@@ -1,6 +1,6 @@
 {
     "Current Focus": {
-        "Lessons About The Workplace I Would Teach My College Self": [false],
+        "Be a mentor to someone in computing": [false],
         "Learn to speak German fluently": [false],
         "Get a first class honours degree in computing": [false]
     },
@@ -62,7 +62,7 @@
         "Make a to do list application in React": [false],
         "Make an alarm clock app": [false],
         "Make an app designed to help people with addictions": [false],
-        "Tkinter Address Book": [false],
+        "Make a Tkinter Address Book": [false],
         "Make a Code Style Checker": [true, "24/01/2021"],
         "Make a Code Style Checker with 10 validators": [false],
         "Make a programming language": [false],
@@ -74,7 +74,7 @@
     "Articles": {
         "How to Start Using Git (debating the name)": [true, "05/04/2021"],
         "Impossible list tutorial": [false],
-        "Lessons About The Workplace I Would Teach My College Self": [false],
+        "Lessons About The Workplace I Would Teach My College Self": [true, "07/07/2021"],
         "What I Do As An Apprentice Application Developer": [false]
     },
 
@@ -106,7 +106,8 @@
         "Go on a zip wire": [false],
         "Do a talk in person at college": [false],
         "Do a talk to an audience of at least 300 people": [false],
-        "Go to an online YAAN event": [false],
+        "Go to an online YAAN event": [true, "12/07/2021"],
+        "Go to 5 online YAAN events (currently at 2/5)": [false],
         "Go to an in-person YAAN event": [false],
         "Do a TED Talk": [false],
         "Go to Comic-Con": [false],
