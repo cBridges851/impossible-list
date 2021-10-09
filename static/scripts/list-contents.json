@@ -1,5 +1,6 @@
 {
     "Current Focus": {
+        "Complete Hacktoberfest in 2021": [false],
         "Be a mentor to someone in computing": [false],
         "Learn to speak German fluently": [false],
         "Get a first class honours degree in computing": [false]
@@ -113,6 +114,7 @@
         "Go to Comic-Con": [false],
         "Go to an in-person technology conference": [false],
         "Present at a technology conference": [false],
+        "Complete Hacktoberfest in 2021": [false],
         "Take part in an In-Person Hackathon": [false]
     }
 }
