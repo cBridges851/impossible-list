@@ -1,7 +1,6 @@
 {
     "Current Focus": {
-        "Complete Hacktoberfest in 2021": [false],
-        "Be a mentor to someone in computing": [false],
+        "Make a Christmas VR scene for 2021": [false],
         "Learn to speak German fluently": [false],
         "Get a first class honours degree in computing": [false]
     },
@@ -12,7 +11,7 @@
     },
 
     "Social": {
-        "Maintain a loving relationship with my partner (1 year and counting)": [false],
+        "Maintain a loving relationship with my partner (2 years and counting)": [false],
         "Maintain happy friendships with my closest friends, and be there for them!": [false],
         "Write a post which is in the top 1% engagement on LinkedIn": [true, "05/04/2021"],
         "Write 5 posts which are in the top 1% engagement on LinkedIn": [false],
@@ -32,10 +31,12 @@
     },
 
     "Charity": {
-        "Raise £100 for a charity": [false]
+        "Raise £100 for a charity": [false],
+        "Do brave the shave": [false]
     },
 
     "Skills and Projects": {
+        "Make a Christmas VR scene for 2021": [false],
         "Learn to speak German fluently": [false],
         "Write a fiction book": [false],
         "Write a non-fiction book": [false],
@@ -114,7 +115,7 @@
         "Go to Comic-Con": [false],
         "Go to an in-person technology conference": [false],
         "Present at a technology conference": [false],
-        "Complete Hacktoberfest in 2021": [false],
-        "Take part in an In-Person Hackathon": [false]
+        "Take part in an In-Person Hackathon": [false],
+        "Be a regional winner in the National Apprenticeship Awards": [false]
     }
 }
