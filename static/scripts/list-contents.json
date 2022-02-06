@@ -35,7 +35,7 @@
     },
 
     "Skills and Projects": {
-        "Make a Christmas VR scene for 2021": [true],
+        "Make a Christmas VR scene for 2021": [true, "24/12/2021"],
         "Make a Christmas VR scene for 2022": [false],
         "Learn to speak German fluently": [false],
         "Write a fiction book": [false],
