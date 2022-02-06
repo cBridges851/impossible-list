@@ -1,6 +1,5 @@
 {
     "Current Focus": {
-        "Make a Christmas VR scene for 2021": [false],
         "Learn to speak German fluently": [false],
         "Get a first class honours degree in computing": [false]
     },
@@ -36,7 +35,8 @@
     },
 
     "Skills and Projects": {
-        "Make a Christmas VR scene for 2021": [false],
+        "Make a Christmas VR scene for 2021": [true],
+        "Make a Christmas VR scene for 2022": [false],
         "Learn to speak German fluently": [false],
         "Write a fiction book": [false],
         "Write a non-fiction book": [false],
@@ -77,7 +77,8 @@
         "How to Start Using Git (debating the name)": [true, "05/04/2021"],
         "Impossible list tutorial": [false],
         "Lessons About The Workplace I Would Teach My College Self": [true, "07/07/2021"],
-        "What I Do As An Apprentice Application Developer": [false]
+        "What I Do As An Apprentice Application Developer": [false],
+        "What I Would Tell My School Self When She Couldn't Find An Apprenticeship": [false]
     },
 
     "Entertainment": {
